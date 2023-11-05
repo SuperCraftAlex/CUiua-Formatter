@@ -1,5 +1,6 @@
 plugins {
     kotlin("multiplatform") version "1.9.0"
+    id("maven-publish")
 }
 
 group = "me.alex_s168"
